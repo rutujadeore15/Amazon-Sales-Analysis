@@ -1,8 +1,6 @@
 # Amazon-Sales-Analysis
 
-
-![Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16765270-Amazon-Logo-Animation&psig=AOvVaw1QSJYDVmcmESlOVULbSesj&ust=1705833469066000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPj6woHj64MDFQAAAAAdAAAAABAI)
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16765270-Amazon-Logo-Animation&psig=AOvVaw1QSJYDVmcmESlOVULbSesj&ust=1705833469066000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPj6woHj64MDFQAAAAAdAAAAABAI" alt="Animation">
 
 
 ### Highest sales of $15,567K in the Set category
