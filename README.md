@@ -7,7 +7,7 @@
 <a href=https://app.powerbi.com/view?r=eyJrIjoiMjhlNGYxMzMtMjE4ZC00MjMwLTgyNTgtZTE5MjMwNGM3OTJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection">Explore the Interactive Dashboard</a>
 <a href=https://app.powerbi.com/view?r=eyJrIjoiMjhlNGYxMzMtMjE4ZC00MjMwLTgyNTgtZTE5MjMwNGM3OTJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection">Explore the Interactive Report</a>
 
-<img src="https://drive.google.com/uc?id=1LZdmYX8WUWDOEi0eyz2NJljzLbaVjTH0" alt="Your GIF">
+<img src="" alt="Your GIF">
 
 
 ### :chart_with_upwards_trend: Highest sales of $15,567K in the Set category
