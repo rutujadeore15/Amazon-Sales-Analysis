@@ -14,16 +14,6 @@
 
 ### :exclamation: Concentrate on major loss-making products
 
+## Dataset : 
+### https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
-### Highest sales of $15,567K in the Set category
-
-### Top-selling items: Set, Kurta, and Western Dress
-### Maharashtra State and Bengaluru city reported highest sales
-
-### Lucknow city experienced significantly lower sales Recommendation: Focus on trending fashions to improve sales overall
-  
-### Change styles in Ethnic and Traditional dresses due to lower sales
-
-### Carefully monitor Lucknow's bottom sales
-
-### Concentrate on major loss-making products
