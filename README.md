@@ -1,9 +1,8 @@
 # Amazon-Sales-Analysis
 
-<video width="320" height="240" controls>
-  <source src="https://i.gifer.com/iCp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16765270-Amazon-Logo-Animation&psig=AOvVaw1QSJYDVmcmESlOVULbSesj&ust=1705833469066000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPj6woHj64MDFQAAAAAdAAAAABAI)
+
 
 
 ### Highest sales of $15,567K in the Set category
