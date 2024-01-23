@@ -55,19 +55,23 @@ Emphasis is placed on visualizations, trend identification, and actionable recom
 
   
 ### Improved Decision-Making:
-    Enhanced decision-making through data-driven insights.
+
+Enhanced decision-making through data-driven insights.
 
 
 ### Understanding Customer Behavior:
-   Improved understanding of customer behavior and preferences.
+
+ Improved understanding of customer behavior and preferences.
  
 
 ### Cost Optimization:
-    Identification of areas for cost optimization and revenue growth.
+
+ Identification of areas for cost optimization and revenue growth.
 
 
 ### Strategic Business Recommendations:
-    Strategic recommendations for overall business improvement.
+
+Strategic recommendations for overall business improvement.
 
 
 ## Dataset :
