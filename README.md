@@ -35,11 +35,14 @@ Emphasis is placed on visualizations, trend identification, and actionable recom
 
 ## Deliverables
 
+
  ## Power BI Dashboards:
     Detailed dashboards highlighting key metrics and trends.
 
+
 ### Insights:
     In-depth insights into sales performance, customer preferences, and cost-saving opportunities.
+
     
 ### Recommendations:
    Strategic recommendations based on data analysis for business improvement.
@@ -47,7 +50,9 @@ Emphasis is placed on visualizations, trend identification, and actionable recom
 ### Predictive Models:
    Models predicting future sales and profit estimations.
 
+
 ## Benefits
+
   
 ### Improved Decision-Making:
     Enhanced decision-making through data-driven insights.
@@ -59,6 +64,7 @@ Emphasis is placed on visualizations, trend identification, and actionable recom
 
 ### Cost Optimization:
     Identification of areas for cost optimization and revenue growth.
+
 
 ### Strategic Business Recommendations:
     Strategic recommendations for overall business improvement.
