@@ -36,12 +36,12 @@ Emphasis is placed on visualizations, trend identification, and actionable recom
 ## Deliverables
 
 
- ## Power BI Dashboards:
-    Detailed dashboards highlighting key metrics and trends.
+### Power BI Dashboards:
+ Detailed dashboards highlighting key metrics and trends.
 
 
 ### Insights:
-    In-depth insights into sales performance, customer preferences, and cost-saving opportunities.
+ In-depth insights into sales performance, customer preferences, and cost-saving opportunities.
 
     
 ### Recommendations:
