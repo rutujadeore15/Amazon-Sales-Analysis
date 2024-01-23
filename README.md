@@ -3,60 +3,67 @@
 
 ![Presentation](https://github.com/rutujadeore15/Amazon-Sales-Analysis/assets/140812073/04c1e1f8-7dd9-49f7-b3fb-174861e75847)
 
-Key Objectives
-Monthly Sales Analysis:
+# Key Objectives
 
-Evaluate sales performance by category, currency, and customer on a monthly basis.
-Stock Level Assessment:
+### Monthly Sales Analysis:
+    Evaluate sales performance by category, currency, and customer on a monthly basis.
 
-Understand product movement by assessing stock levels.
-Profitability Comparison:
+### Stock Level Assessment:
+    Understand product movement by assessing stock levels.
 
-Compare profitability using Shiprocket and INCREF data.
-Referral Fees and Fulfillment Rates:
+### Profitability Comparison:
+   Compare profitability using Shiprocket and INCREF data.
 
-Evaluate referral fees and fulfillment rates to optimize costs.
-Cross-Channel Price Comparison:
+### Referral Fees and Fulfillment Rates:
+   Evaluate referral fees and fulfillment rates to optimize costs.
 
-Compare prices across channels like Amazon, Myntra, and Ajio.
-Cost-Cutting Measures:
+### Cross-Channel Price Comparison:
+   Compare prices across channels like Amazon, Myntra, and Ajio.
 
-Propose cost-cutting measures, particularly in delivery options.
-Predictive Modeling:
+### Cost-Cutting Measures:
+   Propose cost-cutting measures, particularly in delivery options.
 
-Utilize data to build predictive models for future sales volume and profits.
-Customer Preference Analysis:
+### Predictive Modeling:
+   Utilize data to build predictive models for future sales volume and profits.
 
+### Customer Preference Analysis:
 Provide insights into customer preferences considering size, color, and platform-specific pricing.
-Approach
-This project employs a data-driven approach, utilizing Power BI, SQL, Python, and machine learning for robust analysis. Emphasis is placed on visualizations, trend identification, and actionable recommendations.
 
-Deliverables
-Power BI Dashboards:
+## Approach
+This project employs a data-driven approach, utilizing Power BI, SQL, Python, and machine learning for robust analysis. 
+Emphasis is placed on visualizations, trend identification, and actionable recommendations.
 
-Detailed dashboards highlighting key metrics and trends.
-Insights:
+## Deliverables
 
-In-depth insights into sales performance, customer preferences, and cost-saving opportunities.
-Recommendations:
+ ## Power BI Dashboards:
+    Detailed dashboards highlighting key metrics and trends.
 
-Strategic recommendations based on data analysis for business improvement.
-Predictive Models:
+### Insights:
+    In-depth insights into sales performance, customer preferences, and cost-saving opportunities.
+    
+### Recommendations:
+   Strategic recommendations based on data analysis for business improvement.
 
-Models predicting future sales and profit estimations.
-Benefits
-Improved Decision-Making:
+### Predictive Models:
+   Models predicting future sales and profit estimations.
 
-Enhanced decision-making through data-driven insights.
-Understanding Customer Behavior:
+## Benefits
+  
+### Improved Decision-Making:
+    Enhanced decision-making through data-driven insights.
 
-Improved understanding of customer behavior and preferences.
-Cost Optimization:
 
-Identification of areas for cost optimization and revenue growth.
-Strategic Business Recommendations:
+### Understanding Customer Behavior:
+   Improved understanding of customer behavior and preferences.
+ 
 
-Strategic recommendations for overall business improvement.
-Dataset :
+### Cost Optimization:
+    Identification of areas for cost optimization and revenue growth.
+
+### Strategic Business Recommendations:
+    Strategic recommendations for overall business improvement.
+
+
+## Dataset :
 https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
