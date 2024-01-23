@@ -3,21 +3,60 @@
 
 ![Presentation](https://github.com/rutujadeore15/Amazon-Sales-Analysis/assets/140812073/04c1e1f8-7dd9-49f7-b3fb-174861e75847)
 
+Key Objectives
+Monthly Sales Analysis:
 
+Evaluate sales performance by category, currency, and customer on a monthly basis.
+Stock Level Assessment:
 
-### :chart_with_upwards_trend: Highest sales of $15,567K in the Set category
+Understand product movement by assessing stock levels.
+Profitability Comparison:
 
-### :moneybag: Top-selling items: Set, Kurta, and Western Dress
-### :round_pushpin: Maharashtra State and Bengaluru city reported highest sales
+Compare profitability using Shiprocket and INCREF data.
+Referral Fees and Fulfillment Rates:
 
-### :warning: Lucknow city experienced significantly lower sales Recommendation: Focus on trending fashions to improve sales overall
-  
-### :dress: Change styles in Ethnic and Traditional dresses due to lower sales
+Evaluate referral fees and fulfillment rates to optimize costs.
+Cross-Channel Price Comparison:
 
-### :mag: Carefully monitor Lucknow's bottom sales
+Compare prices across channels like Amazon, Myntra, and Ajio.
+Cost-Cutting Measures:
 
-### :exclamation: Concentrate on major loss-making products
+Propose cost-cutting measures, particularly in delivery options.
+Predictive Modeling:
 
-## Dataset : 
-### https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
+Utilize data to build predictive models for future sales volume and profits.
+Customer Preference Analysis:
+
+Provide insights into customer preferences considering size, color, and platform-specific pricing.
+Approach
+This project employs a data-driven approach, utilizing Power BI, SQL, Python, and machine learning for robust analysis. Emphasis is placed on visualizations, trend identification, and actionable recommendations.
+
+Deliverables
+Power BI Dashboards:
+
+Detailed dashboards highlighting key metrics and trends.
+Insights:
+
+In-depth insights into sales performance, customer preferences, and cost-saving opportunities.
+Recommendations:
+
+Strategic recommendations based on data analysis for business improvement.
+Predictive Models:
+
+Models predicting future sales and profit estimations.
+Benefits
+Improved Decision-Making:
+
+Enhanced decision-making through data-driven insights.
+Understanding Customer Behavior:
+
+Improved understanding of customer behavior and preferences.
+Cost Optimization:
+
+Identification of areas for cost optimization and revenue growth.
+Strategic Business Recommendations:
+
+Strategic recommendations for overall business improvement.
+Dataset :
+https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
